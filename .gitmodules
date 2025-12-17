@@ -7,3 +7,9 @@
 [submodule "EE675"]
 	path = EE675
 	url = git@github.com:abhijeeta21/EE675_2025.git
+[submodule "CS360"]
+	path = CS360
+	url = git@github.com:abhijeeta21/CS360_2025.git
+[submodule "CS661"]
+	path = CS661
+	url = git@github.com:abhijeeta21/CS661_2025.git
