@@ -1,0 +1,3 @@
+[submodule "CS425"]
+	path = CS425
+	url = git@github.com:abhijeeta21/CS425_2025.git
